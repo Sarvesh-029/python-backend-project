@@ -2,7 +2,9 @@
 
 A product inventory application with a **FastAPI backend**, **SQLAlchemy ORM**, and a **PostgreSQL** database. This repository also contains a React frontend that integrates with the API.
 
-> **Project contributions:** I built the backend, including the REST API and database integration. The frontend was created by its contributor; their name or profile was not identifiable from the repository, so please replace **[Frontend contributor]** with the correct name or GitHub link.
+> **Project contributions:** I built the backend, including the REST API and database integration.
+> The frontend was created by its contributor.
+> frontend repo - https://github.com/navinreddy20/fastapi-demo.git
 
 ## Features
 
@@ -125,7 +127,7 @@ On startup, the application creates the product table if it does not exist. If t
 ## Credits
 
 - **Backend and API:** Sarvesh-029
-- **Frontend:** [Frontend contributor] — frontend contribution. Add the contributor's name or GitHub profile here.
+- **Frontend:** [Frontend contributor] —navinreddy20.
 
 ## License
 
